@@ -1,0 +1,109 @@
+[
+    {
+        "Morning":"Fried Bean Cake",
+        "Afternoon": "Jollo Rice",
+        "Evening": "Ogbono soup and Fufu",
+        "Price1": "₦5500"     
+    },
+    {
+        "Morning": "Bread and Tea",
+        "Afternoon": "Asaro",
+        "Evening": "Pepper Soup",
+        "Price1": "₦7000"
+    },
+    {
+        "Morning": "Cornflakes",
+        "Afternoon": "Beans and Yam",
+        "Evening": " Abacha and Ugba",
+        "Price1": "₦5000"
+    },
+    {
+        "Morning": "Yam and Egg",
+        "Afternoon": "Ewa Agoyin with Bread",
+        "Evening": "Nigerian Fried Rice",
+        "Price1": "₦3000"
+    },
+    {
+        "Morning": "Moi Moi",
+        "Afternoon": "Egusi soup with Fufu",
+        "Evening": "Jollof Rice",
+        "Price1": "₦4500"
+    },
+    {
+        "Morning": "Bread and Egg",
+        "Afternoon": "Beans and Plantain",
+        "Evening": " Abacha and Ugba",
+        "Price1": "₦6500"
+
+    },
+    {
+        "Morning": "Nigerian Fried Rice",
+        "Afternoon": "Afang Soup with Garri",
+        "Evening": "Moi Moi",
+        "Price1": "₦7200"
+
+    },
+    {
+        "Morning": "Bread and Tea",
+        "Afternoon": "Amala and Ewedu",
+        "Evening": "Beans and Plantain",
+        "Price1": "₦6000"
+    },
+    {
+        "Morning": "Yam and Egg",
+        "Afternoon": "Cornflakes",
+        "Evening": "Banga Soup with Pounded Yam",
+        "Price1": "₦6000"
+
+    },
+    {
+        "Morning": "Cornflakes",
+        "Afternoon": "Egg with Plantain",
+        "Evening": "Amala and Ewedu",
+        "Price1": "₦5000"
+    },
+     {
+        "Morning": "Bread and Egg",
+        "Afternoon": "Amala and Ewedu",
+        "Evening": "Efo Riro with Pounded Yam",
+        "Price1": "₦5700"
+    },
+     {
+        "Morning": "Bread and Tea",
+        "Afternoon": "Beans and Plantain",
+        "Evening": "Vegetable Soup with Eba",
+        "Price1": "₦9300"
+    },
+     {
+        "Morning": "Cornflakes",
+        "Afternoon": "Bean and Garri",
+        "Evening": "Boiled white rice with Vegetable soup",
+        "Price1": "₦4000"
+    },
+     {
+        "Morning": "Akara",
+        "Afternoon": "Jollo Rice",
+        "Evening": "Egusi Soup with Garri",
+        "Price1": "₦6000"
+    },
+     {
+        "Morning": "Bread and Beans",
+        "Afternoon": "Cornflakes",
+        "Evening": "Tuwo Shinkafa with Pounded Yam",
+        "Price1": "₦6900"
+    },
+     {
+        "Morning": "Egg and Yam",
+        "Afternoon": "Fried Plantain",
+        "Evening": "Pepper Soup",
+        "Price1": "₦4000"
+    },
+     {
+        "Morning": "Bread and Tea",
+        "Afternoon": "Bean",
+        "Evening": "Boiled White Rice with Banga soup",
+        "Price1": "₦8400"
+
+    }
+    
+]
